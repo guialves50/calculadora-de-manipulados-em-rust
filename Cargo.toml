@@ -1,0 +1,8 @@
+[package]
+name = "calculadora-de-manipulados"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clearscreen = "3.0.0"
+colour = "2.1.0"
